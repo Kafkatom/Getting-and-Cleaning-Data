@@ -6,7 +6,7 @@ in variable names etc., so I decided to combine X_sets, then Y_sets and then sub
 This has to be done before the merging, in order to save the subjects and activity columns needed for the next quesiton.
 
 5. Now I combine the subject data sets by rbind.
-6. Then I combine activities data sets, load the activity_labels data, and merge this sets into new, connecting activities with their labels.	
+6. Then I combine activities data sets, and label them through the activity_labels data.
 
 7. Now I combine the three datasets - subjects, activities, and "filterdata" - set which contains columns of means and standard deviations.
 8. Final step, I am using the data table package to create new data set of means on variables in "newdata" for each subject and activity (subsetting it by .SD - by subjectID,
