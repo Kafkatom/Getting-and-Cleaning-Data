@@ -1,7 +1,11 @@
+I tried, but I could not figure out gsub on my own, and I do not want to copy other peoples' work, so I am listing the variables this way. Thanks for your understanding.
+
 Variables in set:
 Identity variables:
+
 [1] "subject"             - subject ID      (1:30)        
- [2] "activity"           - 6 activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)               
+
+[2] "activity"           - 6 activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)               
 Means are calculated for  this variables:
  [3] "tBodyAcc.mean...X"         - timeBodyAccelerator.mean...x          
  [4] "tBodyAcc.mean...Y"     - timeBodyAccelerator.mean...y                         
