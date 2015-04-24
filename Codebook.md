@@ -7,6 +7,7 @@ Identity variables:
 
 [2] "activity"           - 6 activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)               
 Means are calculated for  this variables:
+ 
  [3] "tBodyAcc.mean...X"         - timeBodyAccelerator.mean...x          
  [4] "tBodyAcc.mean...Y"     - timeBodyAccelerator.mean...y                         
   [5] "tBodyAcc.mean...Z"     - timeBodyAccelerator.mean...z                      
