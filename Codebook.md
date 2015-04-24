@@ -11,14 +11,14 @@ Means are calculated for  this variables:
  [8] "tBodyAcc.std...Z"             - timeBodyAccelerator.std...z                
 
 [9] "tGravityAcc.mean...X"            -timeGravityAccelerator.mean...x   
-[
-10] "tGravityAcc.mean...Y"             timeGravityAccelerator.mean...y    
+[10] "tGravityAcc.mean...Y"             timeGravityAccelerator.mean...y    
 
 [11] "tGravityAcc.mean...Z"           timeGravityAccelerator.mean...z        
 
 [12] "tGravityAcc.std...X"             timeGravityAccelerator.std...x       
 
 [13] "tGravityAcc.std...Y"                timeGravityAccelerator.std...y 
+
 [14] "tGravityAcc.std...Z"                 timeGravityAccelerator.std...z  
 [15] "tBodyAccJerk.mean...X"               timeBodyAcceleratorJerk.mean...x          
 [16] "tBodyAccJerk.mean...Y"               timeBodyAcceleratorJerk.mean...y      
@@ -87,14 +87,21 @@ Means are calculated for  this variables:
 [60] "fBodyAccJerk.meanFreq...Z"           frequencyBodyAcceleratorJerk. meanFreq...z               
 
 [61] "fBodyGyro.mean...X"                  frequencyBodyGyroscope.mean..x
+
 [62] "fBodyGyro.mean...Y"                  frequencyBody Gyroscope.mean..y
+
 [63] "fBodyGyro.mean...Z"                  frequencyBody Gyroscope.mean..z
+
 [64] "fBodyGyro.std...X"                   frequencyBody Gyroscope.std..x
+
 [65] "fBodyGyro.std...Y"                   frequencyBody Gyroscope.std..y
+
 [66] "fBodyGyro.std...Z"                   frequencyBody Gyroscope.std..z
 
 [67] "fBodyGyro.meanFreq...X"              frequencyBody Gyroscope.meanFreq..x
+
 [68] "fBodyGyro.meanFreq...Y"              frequencyBody Gyroscope.meanFreq..y
+
 [69] "fBodyGyro.meanFreq...Z"              frequencyBody Gyroscope.meanFreq..z
 
 [70] "fBodyAccMag.mean.."                  frequencyBodyAcceleratorMagntude.mean 
@@ -110,16 +117,25 @@ Means are calculated for  this variables:
 [75] "fBodyBodyAccJerkMag.meanFreq.."      frequencyBodyBodyAcceleratorMagnitude.meanFreq..               
 
 [76] "fBodyBodyGyroMag.mean.."             frequencyBodyBodyGyroscopeMagnitude.mean..
+
 [77] "fBodyBodyGyroMag.std.."              frequencyBodyBodyGyroscopeMagnitude.std..
+
 [78] "fBodyBodyGyroMag.meanFreq.."         frequencyBodyBodyGyroscopeMagnitude.meanFreq..
+
 [79] "fBodyBodyGyroJerkMag.mean.."         frequencyBodyBodyGyroscopeMagnitude.mean..
+
 [80] "fBodyBodyGyroJerkMag.std.."          frequencyBodyBodyGyroscopeMagnitude.std..
+
 [81] "fBodyBodyGyroJerkMag.meanFreq.."     frequencyBodyBodyGyroscopeMagnitude.meanFreq..
 
 [82] "angle.tBodyAccMean.gravity."        angle. timeBodyAcceleratorMean.gravity. 
+
 [83] "angle.tBodyAccJerkMean..gravityMean."angle. timeBodyAcceleratorJerk.Mean..gravityMean              
+
 [84] "angle.tBodyGyroMean.gravityMean."    angle.timeBodyGyroscopeMean.gravityMean.
+
 [85] "angle.tBodyGyroJerkMean.gravityMean."angle. timeBodyGyroscopeJerk.gravityMean.               
+
 [86] "angle.X.gravityMean."                angle.X.graviyMean.               
 [87] "angle.Y.gravityMean."                angle.Y.gravityMean               
 [88] "angle.Z.gravityMean."  angle.Z.gravityMean               
