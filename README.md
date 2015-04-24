@@ -9,7 +9,7 @@ This has to be done before the merging, in order to save the subjects and activi
 6. Then I combine activities data sets, and label them through the activity_labels data.
 
 7. Now I combine the three datasets - subjects, activities, and "filterdata" - set which contains columns of means and standard deviations.
-8. Final step, I am using the data table package to create new data set of means on variables in "newdata" for each subject and activity (subsetting it by .SD - by subjectID,
+8. Final step, I am using the reshape2 package to create new data set with calculated means for each subject for each activity, by melting ther merged data, and then calculating means on each activity measure by dcast.
 activityID and activityLabel, and write it into Calculated_Data.txt.
 
 
